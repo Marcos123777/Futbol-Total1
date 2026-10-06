@@ -1,0 +1,9 @@
+.env
+*.log
+*.tmp
+*.bak
+Thumbs.db
+desktop.ini
+node_modules/
+vendor/
+.DS_Store
